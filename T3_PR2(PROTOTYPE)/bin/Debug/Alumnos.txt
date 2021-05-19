@@ -1,0 +1,180 @@
+---------------ALUMNO ORIGINAL---------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jason 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8491258722
+--------------------CLON----------------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Multimedia 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Mayra
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jonathan 
+Apellido: Rosario 
+Matricula: 2019-87795 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Fiorenzo
+Telefono Padre: 8097888955
+---------------ALUMNO ORIGINAL---------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jason 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8491258722
+--------------------CLON----------------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Multimedia 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Mayra
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jonathan 
+Apellido: Rosario 
+Matricula: 2019-87795 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Fiorenzo
+Telefono Padre: 8097888955
+---------------ALUMNO ORIGINAL---------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jason 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8491258722
+--------------------CLON----------------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Multimedia 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Mayra
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jonathan 
+Apellido: Rosario 
+Matricula: 2019-87795 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Fiorenzo
+Telefono Padre: 8097888955
+---------------ALUMNO ORIGINAL---------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jason 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8491258722
+--------------------CLON----------------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Multimedia 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Mayra
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jonathan 
+Apellido: Rosario 
+Matricula: 2019-87795 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Fiorenzo
+Telefono Padre: 8097888955
+---------------ALUMNO ORIGINAL---------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jason 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Bruno
+Telefono Padre: 8491258722
+--------------------CLON----------------------
+Nombre: Caterina 
+Apellido: Rosario 
+Matricula: 2019-8106 
+Carrera: Multimedia 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Mayra
+Telefono Padre: 8097888955
+--------------------CLON----------------------
+Nombre: Jonathan 
+Apellido: Rosario 
+Matricula: 2019-87795 
+Carrera: Software 
+Telefono: 8093095630 
+Edad: 19 
+Padre: Fiorenzo
+Telefono Padre: 8097888955

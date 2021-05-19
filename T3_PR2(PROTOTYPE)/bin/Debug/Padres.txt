@@ -1,0 +1,140 @@
+----------------PADRE ORIGINAL----------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Pedro Jose
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Arquitecto
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 021-4802973-0
+Telefono: 8493728362
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Suarez
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 35
+----------------PADRE ORIGINAL----------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Pedro Jose
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Arquitecto
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 021-4802973-0
+Telefono: 8493728362
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Suarez
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 35
+----------------PADRE ORIGINAL----------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Pedro Jose
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Arquitecto
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 021-4802973-0
+Telefono: 8493728362
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Suarez
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 35
+----------------PADRE ORIGINAL----------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Pedro Jose
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Arquitecto
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 021-4802973-0
+Telefono: 8493728362
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Suarez
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 35
+----------------PADRE GREYLIN----------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Pedro Jose
+Apellido: Giannecchini
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Arquitecto
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Giannecchini
+Cedula: 021-4802973-0
+Telefono: 8493728362
+Trabajo: Analista de Sistema
+Edad: 50
+--------------------CLON----------------------
+Nombre: Bruno
+Apellido: Suarez
+Cedula: 001-1235289-7
+Telefono: 8097888955
+Trabajo: Analista de Sistema
+Edad: 35
