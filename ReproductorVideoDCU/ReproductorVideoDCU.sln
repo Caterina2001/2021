@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReproductorVideoDCU", "ReproductorVideoDCU.csproj", "{DD5655B1-682A-4EDB-B3C4-50D37C9D4227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5655B1-682A-4EDB-B3C4-50D37C9D4227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5655B1-682A-4EDB-B3C4-50D37C9D4227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5655B1-682A-4EDB-B3C4-50D37C9D4227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5655B1-682A-4EDB-B3C4-50D37C9D4227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E2F77DF-E86C-4A65-9754-CE07BF928E34}
+	EndGlobalSection
+EndGlobal

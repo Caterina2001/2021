@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\ReproductorVideoDCU\bin\Debug\ReproductorVideoDCU.exe.config
+C:\Users\utente\source\repos\ReproductorVideoDCU\bin\Debug\ReproductorVideoDCU.exe
+C:\Users\utente\source\repos\ReproductorVideoDCU\bin\Debug\ReproductorVideoDCU.pdb
+C:\Users\utente\source\repos\ReproductorVideoDCU\bin\Debug\Interop.WMPLib.dll
+C:\Users\utente\source\repos\ReproductorVideoDCU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\ReproductorVideoDCU.csprojAssemblyReference.cache
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\Interop.WMPLib.dll
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\ReproductorVideoDCU.csproj.ResolveComReference.cache
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\ReproductorVideoDCU.Form1.resources
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\ReproductorVideoDCU.Properties.Resources.resources
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\ReproductorVideoDCU.csproj.GenerateResource.cache
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\ReproductorVideoDCU.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\ReproductorVideoDCU.exe
+C:\Users\utente\source\repos\ReproductorVideoDCU\obj\Debug\ReproductorVideoDCU.pdb
